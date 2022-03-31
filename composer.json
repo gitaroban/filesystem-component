@@ -1,0 +1,20 @@
+{
+    "name": "gitaroban/filesystem-component",
+    "description": "Etendre le composant Filesystem de Symfony.",
+    "type": "library",
+    "require": {
+        "symfony/filesystem": "^5.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gitaroban\\FilesystemComponent\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "atournayre",
+            "email": "a.tournayre@aroban.com"
+        }
+    ]
+}
