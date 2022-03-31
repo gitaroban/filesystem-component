@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace App\Infrastructure\Helper\Fichier;
+namespace Gitaroban\FilesystemComponent;
 
 use Symfony\Component\Filesystem\Filesystem as SymfonyFilesystem;
 
